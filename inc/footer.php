@@ -1,13 +1,98 @@
+<!-- newsletter__section__start -->
+<div class="newslatter newslatter__2">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="newslatter-textt d-flex gap-3">
+                    <i class="fas fa-envelope"></i>
+                    <h4>Sign Up To Shop Now</h4>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="newslatter__inner">
+                    <div class="newslatter__input">
+                        <input type="text" placeholder="Enter your email">
+                        <button class="default__button">Subscribe</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- newsletter__section__start -->
+
+
 <!-- footer__section__start -->
 <div class="footer">
     <div class="footer__inner sp_top_80">
         <div class="container sp_bottom_60">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="footer__widget">
-                        <h4 class="footer__title"><strong>About Us.</strong></h4>
-                        <p>Minimal E-Commerce is a dynamic and innovative online retail platform that offers a
-                            wide range of products to customers worldwide.</p>
+                        <h4 class="footer__title"><strong>Contact Us</strong></h4>
+                        <p>Demo Store <br> No. 1258 Utawala, Nairobi, 01010 <br> Kenya</p>
+                        <div class="footer__menu">
+                            <ul>
+                                <li><a href="#!">+25470101010</a></li>
+                                <li><a href="#!">example@gmail.com</a></li>
+                            </ul>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12">
+                    <div class="footer__widget">
+                        <h4 class="footer__title"><strong>Information</strong></h4>
+                        <div class="footer__menu">
+                            <ul>
+                                <li><a href="#!">Privacy Policy</a></li>
+                                <li><a href="#!">Refund Policy</a></li>
+                                <li><a href="#!">Shipping Policy</a></li>
+                                <li><a href="#!">Terms Of Service</a></li>
+                                <li><a href="#!">Blogs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
+                    <div class="footer__widget">
+                        <h4 class="footer__title"><strong>Account</strong></h4>
+                        <div class="footer__menu">
+                            <ul>
+                                <li><a href="#!">Search</a></li>
+                                <li><a href="#!">About Us</a></li>
+                                <li><a href="#!">Faq</a></li>
+                                <li><a href="#!">Contact</a></li>
+                                <li><a href="#!">Help</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
+                    <div class="footer__widget">
+                        <h4 class="footer__title"><strong>Quick Links</strong></h4>
+                        <div class="footer__menu">
+                            <ul>
+                                <li><a href="#!">Incense Sticks</a></li>
+                                <li><a href="#!">Shankh</a></li>
+                                <li><a href="#!">Kalash</a></li>
+                                <li><a href="#!">Incense Holders</a></li>
+                                <li><a href="#!">Cone Dhoop</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="footer__widget">
+                        <h4 class="footer__title"><strong>Social Media.</strong></h4>
+                        <div class="footer__text">
+                            <p>Follow us on social media and stay updated.</p>
+                        </div>
+
                         <div class="footer__social__icon">
                             <ul>
                                 <li><a target="_blank" title="Facebook-f" href="https://www.facebook.com/shopify"><i
@@ -37,80 +122,6 @@
                     </div>
                 </div>
 
-                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
-                    <div class="footer__widget">
-                        <h4 class="footer__title"><strong>Quick Link</strong></h4>
-                        <div class="footer__menu">
-                            <ul>
-                                <li><a href="https://minimalin-html.netlify.app/account">My Account</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/cart">My Cart</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/pages/wishlist">Wishlist</a>
-                                </li>
-                                <li><a href="https://minimalin-html.netlify.app/">Gift Card</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/pages/contact">Need Help?</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
-                    <div class="footer__widget">
-                        <h4 class="footer__title"><strong>strong</strong></h4>
-                        <div class="footer__menu">
-                            <ul>
-                                <li><a href="https://minimalin-html.netlify.app/account">About us</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/cart">Contact</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/pages/wishlist">Blogs</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/">Gift Card</a></li>
-                                <li><a href="https://minimalin-html.netlify.app/pages/contact">Size Chart</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="footer__widget">
-                        <h4 class="footer__title"><strong>Newsletter</strong></h4>
-                        <div class="footer__text">
-                            <p>Subscribe to our weekly Newsletter and receive updates via email.</p>
-                        </div>
-                        <div class="footer__input footer__input__5">
-                            <input type="text" placeholder="email@example.com">
-                            <button class="green__button default__button">Subscribe</button>
-                        </div>
-
-                        <div class="footer__bottom">
-                            <h5>We Accept</h5>
-                            <div class="footer__img">
-                                <ul>
-                                    <li>
-                                        <img src="img/footer/footer__1.svg" alt="">
-                                    </li>
-                                    <li>
-                                        <img src="img/footer/footer__2.svg" alt="">
-                                    </li>
-                                    <li>
-                                        <img src="img/footer/footer__3.svg" alt="">
-                                    </li>
-                                    <li>
-                                        <img src="img/footer/footer__4.svg" alt="">
-                                    </li>
-                                    <li>
-                                        <img src="img/footer/footer__5.svg" alt="">
-                                    </li>
-                                    <li>
-                                        <img src="img/footer/footer__6.svg" alt="">
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>
@@ -119,7 +130,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="copyright__text">
-                        <p>© 2024 <strong>Minimalin</strong>. All rights reserved.</p>
+                        <p>Designed By Rachit Kumar </p>
 
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js layout__6" lang="zxx">
+<html class="no-js" lang="zxx">
 
 <head>
     <meta charset="utf-8">
@@ -12,7 +12,6 @@
     <?php include("inc/header-links.php"); ?>
 
 </head>
-
 
 <body>
     <main class="main_wrapper body__overlay overflow__hidden">
