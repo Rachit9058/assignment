@@ -67,7 +67,7 @@
                                 <img src="images/list1.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -81,7 +81,7 @@
                                 <img src="images/list2.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -94,7 +94,7 @@
                                 <img src="images/list3.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -108,7 +108,7 @@
                                 <img src="images/list4.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -121,7 +121,7 @@
                                 <img src="images/list5.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -135,7 +135,7 @@
                                 <img src="images/list6.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -149,7 +149,7 @@
                                 <img src="images/list7.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -162,7 +162,7 @@
                                 <img src="images/list8.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -176,7 +176,7 @@
                                 <img src="images/list9.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -189,7 +189,7 @@
                                 <img src="images/list10.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>
@@ -202,7 +202,7 @@
                                 <img src="images/list11.png" alt="">
                             </div>
                             <div class="category__text category__text__2">
-                                <h5><a href="#">DHOOP INCENSE CONES</a></h5>
+                                <h5><a href="single-product.php">DHOOP INCENSE CONES</a></h5>
                                 <p>4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use</p>
                                 <img src="images/rate.png" alt="">
                                 <h6>$2.05</h6>

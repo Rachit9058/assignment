@@ -131,7 +131,7 @@
                     </div>
                 </div>
                 <div class="row grid__responsive">
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-6">
                         <div class="collection__single__2">
                             <div class="collection__img__2">
                                 <img src="images/cat1.png" alt="">
@@ -142,7 +142,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-6">
                         <div class="collection__single__2">
                             <div class="collection__img__2">
                                 <img src="images/cat2.png" alt="">
@@ -154,7 +154,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-6">
                         <div class="collection__single__2">
                             <div class="collection__img__2">
                                 <img src="images/cat3.png" alt="">
@@ -166,7 +166,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-6">
                         <div class="collection__single__2">
                             <div class="collection__img__2">
                                 <img src="images/cat4.png" alt="">
@@ -177,7 +177,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-6">
                         <div class="collection__single__2">
                             <div class="collection__img__2">
                                 <img src="images/cat5.png" alt="">
@@ -189,7 +189,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-6">
                         <div class="collection__single__2">
                             <div class="collection__img__2">
                                 <img src="images/cat6.png" alt="">

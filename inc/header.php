@@ -108,9 +108,9 @@
                                 <li><a href='#!'>About</a> </li>
                                 <li><a class="headerarea__has__dropdown" href="categories.php">Products</a>
                                     <ul class="headerarea__submenu">
-                                        <li><a class="headerarea__has__dropdown" href='#!'>Dhoop Cones</a>
+                                        <li><a class="headerarea__has__dropdown" href='categories.php'>Dhoop Cones</a>
                                             <ul class="headerarea__submenu">
-                                                <li><a href='#!'>Jar Cones</a></li>
+                                                <li><a href='categories.php'>Jar Cones</a></li>
                                                 <li><a href='#!'>Chandan Bamboo Dhoop</a></li>
                                             </ul>
                                         </li>
@@ -120,7 +120,7 @@
                                         <li><a href='#!'>Pooja Thali Sets</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="headerarea__has__dropdown" href="single-product.php">Services</a>
+                                <li><a class="headerarea__has__dropdown" href="">Services</a>
                                     <ul class="headerarea__submenu">
                                         <li><a href='#!'>Dhoop Cones</a></li>
                                         <li><a href='#!'>Incense Holders</a></li>
@@ -160,7 +160,7 @@
             </div>
             <div class="col-sm-4 col-5">
                 <div class="mobile-logo">
-                    <a class="logo__mobile" href="#"><img src="images/logo.jpg" alt="logo"></a>
+                    <a class="logo__mobile" href="index.php"><img src="images/logo.jpg" alt="logo"></a>
                 </div>
             </div>
             <div class="col-sm-4 col-5">
@@ -187,7 +187,7 @@
                                                     fill="none" stroke="currentColor" stroke-linecap="round"
                                                     stroke-linejoin="round" stroke-width="32" />
                                             </svg>
-                                            <span class=" bigcounter">2</span>
+                                            <span class=" bigcounter"></span>
                                         </div>
                                     </div>
                                 </div>
@@ -248,7 +248,7 @@
                             <li><a href='#!'>About</a></li>
                             <li class="menu-item-has-children"><a href='#!'>Products</a>
                                 <ul class="dropdown">
-                                    <li><a href='#!'>Dhoop Cones</a></li>
+                                    <li><a href='categories.php'>Dhoop Cones</a></li>
                                     <li><a href='#!'>Incense Holders</a></li>
                                     <li><a href='#!'>Yantras</a></li>
                                     <li><a href='#!'>Incense Sticks</a></li>
